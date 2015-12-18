@@ -21,6 +21,7 @@ chla <- stack(files$fullname, varname = "chlorophyll", quick = TRUE)
 mchla <- calc(chla, mean, na.rm = TRUE)
 pal <- palr::chlPal(palette = TRUE)
 plot(mchla, col = pal$cols, breaks = pal$breaks, legend = FALSE)
+## GDAL bindings
 library(rgdal)
 
 prj <- "+proj=laea +lon_0=147 +ellps=WGS84 +lat_0=-90"
