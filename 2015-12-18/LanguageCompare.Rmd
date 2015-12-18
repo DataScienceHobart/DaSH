@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R
 
 ```{r}
+
 library(raadtools)
 x <- chlafiles(product = "johnson")
 
