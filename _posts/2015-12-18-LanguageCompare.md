@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Comparison of Languages"
 author: "Michael Sumner"
-date: "19/12/2015"
-layout: post
+date: 2015-12-18
 ---
 
 
