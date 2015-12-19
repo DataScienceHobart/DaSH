@@ -1,0 +1,47 @@
+---
+title: "Comparison of Languages"
+author: "Michael Sumner"
+date: "19/12/2015"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R
+
+```{r}
+library(raadtools)
+x <- chlafiles(product = "johnson")
+
+files <- subset(x, date > as.POSIXct("2012-04-30"))
+chla <- stack(files$fullname, varname = "chlorophyll", quick = TRUE)
+
+mchla <- calc(chla, mean, na.rm = TRUE)
+pal <- palr::chlPal(palette = TRUE)
+plot(mchla, col = pal$cols, breaks = pal$breaks, legend = FALSE)
+## GDAL bindings
+library(rgdal)
+
+prj <- "+proj=laea +lon_0=147 +ellps=WGS84 +lat_0=-90"
+
+map <- projectRaster(mchla, crs = prj)
+par(mar = c(0, 0, 0, 0))
+plot(map, col = pal$cols, breaks = pal$breaks, legend = FALSE, axes = FALSE)
+#box(col = "white", lwd = 2)
+
+cm <- spTransform(coastmap("world"), prj)
+plot(cm, add = TRUE, border = NA, col = rgb(0, 0, 0, 0.2))
+library(graticule)
+g <- graticule(seq(-180, 165, by = 15), 
+               seq(-85, 80, by = 15),
+               ylim = c(-85, 80), 
+               xlim = c(-180, 180), proj = prj)
+labs <- graticule_labels(seq(-180, 150, by = 30), 
+                         seq(-85, 50, by = 15),
+                         xline = 0, yline = -35, proj = prj   )
+
+plot(g, add = TRUE, lty = 3, col = rgb(0, 0, 0, 0.6))
+text(labs, cex = 0.8, lab = parse(text = labs$lab), col = rgb(0, 0, 0, 0.6))
+```
