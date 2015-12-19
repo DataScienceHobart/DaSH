@@ -2,7 +2,7 @@
 title: "Comparison of Languages"
 author: "Michael Sumner"
 date: "19/12/2015"
-output: html_document
+layout: post
 ---
 
 
