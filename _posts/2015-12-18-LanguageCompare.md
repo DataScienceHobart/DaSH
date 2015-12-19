@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title: "Comparison of Languages"
 author: "Michael Sumner"
 date: 2015-12-18
