@@ -19,10 +19,6 @@ library(raadtools)
 ## Loading required package: sp
 ```
 
-```
-## [1] ""
-```
-
 ```r
 x <- chlafiles(product = "johnson")
 
