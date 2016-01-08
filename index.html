@@ -1,20 +1,12 @@
 ---
 layout: default
+title: Data Science Hobart
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-      {% unless post.draft %}
-      <article class="post">    
-        
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  
-        <div class="entry">
-          {{ post.content | truncatewords:40}}
-        </div>
-        
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-      {% endunless %}
-  {% endfor %}
-</div>
+<div class="blurb">
+        		<h1>Data Science Hobart!</h1>
+        		<br>
+        		<li><a href="https://datasciencehobart.wordpress.com/">DaSH WordPress blog</a></li>
+        		<br>
+        		<li><a href="http://datasciencehobart.github.io/2015-06-29-DataScienceHobart/">DaSH Software Carpentry August 2015</a></li>
+        		<br>
+    		</div><!-- /.blurb -->
