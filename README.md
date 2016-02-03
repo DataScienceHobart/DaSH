@@ -1,5 +1,30 @@
 # DataScienceHobart.github.io
 
+# Tentative calendar 
+
+Date       | Topic | Contact 
+-----------|-------|--------
+2016-02-05 | open  | MS
+2016-02-12 | BCCVL | JB 
+2016-02-19 |       | NK
+2016-02-26 |       | 
+2016-03-04 |       | 
+2016-03-11 |       | 
+2016-03-18 |       | 
+2016-03-25 |       | 
+2016-04-01 |       | 
+2016-04-08 |       | 
+2016-04-15 |       | 
+2016-04-22 |       |   
+2016-04-29 |       |   
+2016-05-06 |       |   
+2016-05-13 |       | 
+2016-05-20 |       | 
+2016-05-27 |       | 
+2016-06-03 |       | 
+2016-06-10 |       | 
+2016-06-17 |       | 
+
 ## How to post
 
 1. Clone this repo. 
@@ -13,7 +38,6 @@ The simplest method is to create a [Markdown](https://daringfireball.net/project
 The format of the name must follow the pattern of "YYYY-MM-DD-Title.md". 
 
 A minimal blog post consists of the following Markdown content
-
 
 ```
 ---
