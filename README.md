@@ -2,6 +2,8 @@
 
 # Tentative calendar 
 
+Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
+
 Date       | Topic | Contact 
 -----------|-------|--------
 2016-02-05 | open  | MS
@@ -11,19 +13,6 @@ Date       | Topic | Contact
 2016-03-04 |       | 
 2016-03-11 |       | 
 2016-03-18 |       | 
-2016-03-25 |       | 
-2016-04-01 |       | 
-2016-04-08 |       | 
-2016-04-15 |       | 
-2016-04-22 |       |   
-2016-04-29 |       |   
-2016-05-06 |       |   
-2016-05-13 |       | 
-2016-05-20 |       | 
-2016-05-27 |       | 
-2016-06-03 |       | 
-2016-06-10 |       | 
-2016-06-17 |       | 
 
 ## How to post
 
