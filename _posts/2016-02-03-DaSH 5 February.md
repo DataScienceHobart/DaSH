@@ -15,7 +15,7 @@ Last week we had a session on LaTeX, please see a description below.
 This week we don't have anything specific apart from the usual time and space for people to meet and discuss data science in Hobart. Please come along: 
 
 *When:*
-Friday 5 February 2016
+9:15 am Friday 5 February 2016
 
 *Where:*
 
