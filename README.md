@@ -4,15 +4,15 @@
 
 Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
 
-Date       | Topic | Contact 
------------|-------|--------
-2016-02-05 | open  | MS
-2016-02-12 | BCCVL | JB 
-2016-02-19 |  NK   | MS
-2016-02-26 |       | 
-2016-03-04 |       | 
-2016-03-11 |       | 
-2016-03-18 |       | 
+Date       | Topic | Contact | Venue
+-----------|-------|---------|------
+2016-02-05 | open  | MS      | Flex
+2016-02-12 | BCCVL | JB      | TBC
+2016-02-19 |  NK   | MS      | 
+2016-02-26 |       |         |
+2016-03-04 |       |         | 
+2016-03-11 |       |         |
+2016-03-18 |       |         |
 
 ## How to post
 
