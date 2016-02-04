@@ -28,9 +28,9 @@ This demonstration will cater for those interested in using the features of the 
 
  Bring your laptop, and join this hands-on demonstration on Friday 12 February at 9:15 in the Teaching Lab, ground floor  at IMAS Salamanca.
 
-![bccvl](bccvl/bccvl.png)
+![bccvl](/figures/bccvl.png)
 
-![details](bccvl/deets.jpg)
+![details](/figures/deets.jpg)
 
 Mike
 
