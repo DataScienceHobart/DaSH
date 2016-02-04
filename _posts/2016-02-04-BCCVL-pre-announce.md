@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DaSH pre-announcement 12 February 2016 - BCCVL demo"
+title: "DaSH pre-announcement - BCCVL demo (12 Feb)"
 author: "Michael Sumner"
 date: "2016-02-04"
 published: true
@@ -28,9 +28,9 @@ This demonstration will cater for those interested in using the features of the 
 
  Bring your laptop, and join this hands-on demonstration on Friday 12 February at 9:15 in the Teaching Lab, ground floor  at IMAS Salamanca.
 
-![alt text](bccvl/bccvl.png)
+![bccvl](bccvl/bccvl.png)
 
-![alt text](bccvl/deets.jpg)
+![details](bccvl/deets.jpg)
 
 Mike
 
