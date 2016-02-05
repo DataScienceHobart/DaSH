@@ -21,51 +21,76 @@ library(raadtools)
 
 
 {% highlight text %}
-## Loading required package: raster
-## Loading required package: sp
-{% endhighlight %}
-
-
-
-{% highlight text %}
-## [1] ""
+## Error in library(raadtools): there is no package called 'raadtools'
 {% endhighlight %}
 
 
 
 {% highlight r %}
 x <- chlafiles(product = "johnson")
- 
-files <- subset(x, date > as.POSIXct("2012-04-30"))
-chla <- stack(files$fullname, varname = "chlorophyll", quick = TRUE)
- 
-mchla <- calc(chla, mean, na.rm = TRUE)
-pal <- palr::chlPal(palette = TRUE)
-plot(mchla, col = pal$cols, breaks = pal$breaks, legend = FALSE)
-{% endhighlight %}
-
-![plot of chunk unnamed-chunk-1](/figures/unnamed-chunk-1-1.png) 
-
-{% highlight r %}
-## GDAL bindings
-library(rgdal)
 {% endhighlight %}
 
 
 
 {% highlight text %}
-## rgdal: version: 1.0-4, (SVN revision 548)
-##  Geospatial Data Abstraction Library extensions to R successfully loaded
-##  Loaded GDAL runtime: GDAL 1.11.2, released 2015/02/10
-##  Path to GDAL shared files: /usr/share/gdal/1.11
-##  Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
-##  Path to PROJ.4 shared files: (autodetected)
-##  Linking to sp version: 1.1-1
+## Error in eval(expr, envir, enclos): could not find function "chlafiles"
 {% endhighlight %}
 
 
 
 {% highlight r %}
+files <- subset(x, date > as.POSIXct("2012-04-30"))
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in subset(x, date > as.POSIXct("2012-04-30")): object 'x' not found
+{% endhighlight %}
+
+
+
+{% highlight r %}
+chla <- stack(files$fullname, varname = "chlorophyll", quick = TRUE)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in files$fullname: $ operator is invalid for atomic vectors
+{% endhighlight %}
+
+
+
+{% highlight r %}
+mchla <- calc(chla, mean, na.rm = TRUE)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in eval(expr, envir, enclos): could not find function "calc"
+{% endhighlight %}
+
+
+
+{% highlight r %}
+pal <- palr::chlPal(palette = TRUE)
+plot(mchla, col = pal$cols, breaks = pal$breaks, legend = FALSE)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in plot(mchla, col = pal$cols, breaks = pal$breaks, legend = FALSE): error in evaluating the argument 'x' in selecting a method for function 'plot': Error: object 'mchla' not found
+{% endhighlight %}
+
+
+
+{% highlight r %}
+## GDAL bindings
+library(rgdal)
+ 
 prj <- "+proj=laea +lon_0=147 +ellps=WGS84 +lat_0=-90"
  
 map <- projectRaster(mchla, crs = prj)
@@ -74,8 +99,7 @@ map <- projectRaster(mchla, crs = prj)
 
 
 {% highlight text %}
-## Warning in rgdal::rawTransform(projfrom, projto, nrow(xy), xy[, 1], xy[, :
-## 52 projected point(s) not finite
+## Error in eval(expr, envir, enclos): could not find function "projectRaster"
 {% endhighlight %}
 
 
@@ -83,10 +107,43 @@ map <- projectRaster(mchla, crs = prj)
 {% highlight r %}
 par(mar = c(0, 0, 0, 0))
 plot(map, col = pal$cols, breaks = pal$breaks, legend = FALSE, axes = FALSE)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in plot(map, col = pal$cols, breaks = pal$breaks, legend = FALSE, : error in evaluating the argument 'x' in selecting a method for function 'plot': Error: object 'map' not found
+{% endhighlight %}
+
+
+
+{% highlight r %}
 #box(col = "white", lwd = 2)
  
 cm <- spTransform(coastmap("world"), prj)
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in spTransform(coastmap("world"), prj): error in evaluating the argument 'x' in selecting a method for function 'spTransform': Error: could not find function "coastmap"
+{% endhighlight %}
+
+
+
+{% highlight r %}
 plot(cm, add = TRUE, border = NA, col = rgb(0, 0, 0, 0.2))
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in plot.xy(xy.coords(x, y), type = type, ...): plot.new has not been called yet
+{% endhighlight %}
+
+
+
+{% highlight r %}
 library(graticule)
 g <- graticule(seq(-180, 165, by = 15), 
                seq(-85, 80, by = 15),
@@ -97,7 +154,22 @@ labs <- graticule_labels(seq(-180, 150, by = 30),
                          xline = 0, yline = -35, proj = prj   )
  
 plot(g, add = TRUE, lty = 3, col = rgb(0, 0, 0, 0.6))
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## Error in plot.xy(xy.coords(x, y), type = type, ...): plot.new has not been called yet
+{% endhighlight %}
+
+
+
+{% highlight r %}
 text(labs, cex = 0.8, lab = parse(text = labs$lab), col = rgb(0, 0, 0, 0.6))
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-1](/figures/unnamed-chunk-1-2.png) 
+
+
+{% highlight text %}
+## Error in text.default(x = structure(c(3210912.58979174, 5252917.77153665, : plot.new has not been called yet
+{% endhighlight %}
