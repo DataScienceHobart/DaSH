@@ -11,7 +11,7 @@ draft: false
  
 Hi DaSHers, 
  
-*This week (5 February 2016) was open session,  Mike and Paola chatted about data sciencey things. Very sorry to the person who could not find us!! The bookings are a bit fluid, so DaSH might be in the flex room, seminar theatre, or upstairs in the lunch room, will tweet last minute details in future  [@DataScienceHbt](https://twitter.com/DataScienceHbt/).* 
+*This week (5 February 2016) was open session,  Mike and Paola chatted about data sciencey things. Very sorry to the person who could not find us!! The bookings are a bit fluid, so DaSH might be in the flex room, seminar theatre, or upstairs in the lunch room, will tweet last minute details in future  [\@DataScienceHbt](https://twitter.com/DataScienceHbt/).* 
  
  
 **This post** is to provide an early announcement of next week, when we have a special session on **Species Distribution Modelling made easy.**
@@ -28,9 +28,7 @@ This demonstration will cater for those interested in using the features of the 
  
  Bring your laptop, and join this hands-on demonstration on Friday 12 February at 9:15 in the Teaching Lab, ground floor  at IMAS Salamanca.
  
-![bccvl](/figures/bccvl/bccvl.png)
- 
-![details](/figures/bccvl/deets.jpg)
+![bccvl](/figures/bccvl/banner.jpg)
  
  
 Mike, Just
