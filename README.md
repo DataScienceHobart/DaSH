@@ -7,12 +7,14 @@ Please feel free to update this calendar, but also notify the organizers. Please
 Date       | Topic | Contact | Venue
 -----------|-------|---------|------
 2016-02-05 | open  | MS      | Flex
-2016-02-12 | BCCVL | JB      | TBC
-2016-02-19 |  NH   | MS      | 
+2016-02-12 | BCCVL | JB      | CMAR
+2016-02-19 | open  | MS      | 
 2016-02-26 |       |         |
-2016-03-04 |       |         | 
+2016-03-04 |  NH   | MS      | 
 2016-03-11 |       |         |
 2016-03-18 |       |         |
+
+AM, 
 
 ## How to post
 
