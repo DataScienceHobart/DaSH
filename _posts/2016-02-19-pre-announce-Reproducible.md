@@ -22,7 +22,7 @@ educational activities and best practice like DaSH and [Software Carpentry](http
 
 Next week we have Damien Irving from CSIRO giving a presentation on *reproducible research*:   
 
-**How to write a reproducible paper**
+*How to write a reproducible paper*
 
 Damien Irving, 
 Postdoctoral Fellow, 
