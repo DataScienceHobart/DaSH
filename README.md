@@ -13,8 +13,7 @@ Date       | Topic | Contact | Venue
 2016-03-04 |  NH   | MS      | 
 2016-03-11 |       |         |
 2016-03-18 |       |         |
-
-AM, 
+march | NK | MS | 
 
 ## How to post
 
