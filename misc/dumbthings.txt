@@ -1,0 +1,53 @@
+##Examples of traps
+
+## apologies to Paul Kelly 
+
+o Floating point traps
+
+.1 == .3 / 3.0
+
+(Some syntax will depend on the language, but python and R give the same answer for that code)
+
+o Missing data traps
+
+equality with "missing", e.g. 
+
+x == NA
+x == null
+
+o NA is not NA_real_
+
+x <- 1:10
+x[3] <- NA  ## !!!
+
+R has NULL, NA, NaN, Inf, -Inf, and ""
+
+o   case-sensitive traps, e.g. code rules are different to data rules:
+
+sEleCT nAME frOm tab; -- this is fine 
+
+select instr(name, "a") from tab; -- returns 6 for William, 2 for Sam, but 0 for Anderson
+
+o degenerate array dimensions 
+
+## R
+mat[ , 1:2] ## is a matrix
+mat[,2] ## is a vector
+
+squeeze(etc) for matlab
+
+o changing code incompletely, and getting trapped by insufficient testing
+
+## version 1
+mat <- matrix(1, 2)
+a <- mat[2]
+a * 3
+
+## version 2
+imat <- matrix(1, 2)  ## rename variable
+a <- mat[2]   ## but forget to rename it here
+a * 3   ## obstusely gives no error in the same session, fails in new session 
+
+o integer division (nuff said)
+
+o matlab's m1 * m2 is R's m1 %*% m2, R's m1 * m2 is matlab's m1 .* m2
