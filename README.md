@@ -13,7 +13,7 @@ Date       | Topic | Contact | Venue
 2016-03-04 |  NH   | MS      | Flex
 2016-03-11 |  
 2016-03-18 |  NK   | MS      | Flex 
-2016-03-25 |       |         |
+2016-03-25 |  DH   | TR      | Flex
 2016-04-01 |       |         |
 
 Upcoming
