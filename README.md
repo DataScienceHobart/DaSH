@@ -4,17 +4,22 @@
 
 Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
 
-Date       | Topic | Contact | Venue
------------|-------|---------|------
-2016-02-05 | open  | MS      | Flex
-2016-02-12 | BCCVL | JB      | CMAR
-2016-02-19 | open  | MS      | 
-2016-02-26 |  DI   | MS      | Flex
-2016-03-04 |  NH   | MS      | 
-2016-03-11 |       |         |
-2016-03-18 |       |         |
+Date       | Topic | Contact | Venue |
+-----------|-------|---------|-------|
+2016-02-05 | open  | MS      | Flex  |  
+2016-02-12 | BCCVL | JB      | CMAR  |
+2016-02-19 | open  | MS      |       |
+2016-02-26 |  DI   | MS      | Flex  |
+2016-03-04 |  NH   | MS      | Flex  |
+2016-03-11 |       |         |       |
+2016-03-18 |  NK   | MS      | Flex  |
+2016-03-25 |  DF   | TR      | Flex  |
+2016-04-01 |  Rsbz | MS      | Flex  |
 
-AM, 
+Upcoming
+
+* ResbazTas2017 
+* 
 
 ## How to post
 
