@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DaSH session 4th April "
+title: "DaSH session - Recent advances in biodiversity modelling - 4th March "
 author: "Michael Sumner"
 date: "2016-03-01"
 published: true
