@@ -13,7 +13,7 @@ Hi DaSHers,
  
 *Last week we had Damien Irving from CSIRO giving a presentation on [**How to write a reproducible paper**](https://speakerdeck.com/damienirving/how-to-write-a-reproducible-paper-number-2) which was was really well attended and prompted a long question and answer session, with lots of spin-off conversations over coffee. *
 
-### Upcoming session - 4 March 2016
+## Upcoming session - 4 March 2016
 
 This week we have [Dr. Nicole Hill](http://www.utas.edu.au/profiles/staff/imas/Nicole-Hill) from the [Institute for Marine and Antarctic Studies (IMAS)](http://www.imas.utas.edu.au/) on 
 
