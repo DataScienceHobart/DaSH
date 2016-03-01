@@ -4,8 +4,8 @@
 
 Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
 
-Date       | Topic | Contact | Venue |  History
------------|-------|---------|----------------
+Date       | Topic | Contact | Venue |
+-----------|-------|---------|-------|
 2016-02-05 | open  | MS      | Flex  |  
 2016-02-12 | BCCVL | JB      | CMAR  |
 2016-02-19 | open  | MS      |       |
