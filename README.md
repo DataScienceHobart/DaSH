@@ -11,7 +11,7 @@ Date       | Topic | Contact | Venue |  History
 2016-02-19 | open  | MS      |       |
 2016-02-26 |  DI   | MS      | Flex  |
 2016-03-04 |  NH   | MS      | Flex  |
-2016-03-11 |                         |
+2016-03-11 |       |         |       |
 2016-03-18 |  NK   | MS      | Flex  |
 2016-03-25 |  DF   | TR      | Flex  |
 2016-04-01 |  DI   | MS      | Flex  |
