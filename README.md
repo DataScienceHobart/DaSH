@@ -12,8 +12,8 @@ Date       | Topic | Contact | Venue |
 2016-02-26 |  DI   | MS      | Flex  |
 2016-03-04 |  NH   | MS      | Flex  |
 2016-03-11 |  PB   | MS      | Flex  |
-2016-03-18 |  NK   | MS      | Flex  |
-2016-03-25 |  Good Friday | DF  / TR   | Flex  |
+2016-03-18 |  DF   | MS      | Flex  |
+2016-03-25 |  Good Friday |  |  |
 2016-04-01 |  Rsbz | MS      | Flex  |
 2016-04-08 | NK    | MS      | Flex |
 Upcoming
