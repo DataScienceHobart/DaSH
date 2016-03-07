@@ -4,6 +4,7 @@ title: "DaSH - Iris & Cartopy mapping in Python - 11 March 2016"
 author: "Michael Sumner"
 date: "2016-03-04"
 published: true
+status: publish
 draft: false
 ---
  
