@@ -7,7 +7,6 @@ published: true
 status: publish
 draft: false
 ---
- 
 Hi DaSHers, 
 
 *Last week we had a great talk by Dr. Nicole Hill from IMAS on [modelling biodiversity](http://datasciencehobart.github.io/2016/03/01/Advances-Biodiversity.html), thanks Nicole!.* 
