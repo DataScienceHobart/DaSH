@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DaSH - Iris & Cartopy mapping in Python"
+title: "DaSH - Iris and Cartopy mapping in Python"
 author: "Michael Sumner"
 date: "2016-03-09"
 published: true
