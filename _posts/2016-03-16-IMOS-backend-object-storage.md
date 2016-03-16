@@ -25,11 +25,9 @@ Hi DaSHers,
 
 This week we have Dan Fruehauf talking about **A sneak peek into IMOS’ backend, AWS migration and object storage**. 
 
-*When:*
-Friday 18 February 2016
+*When*:  March 18, from 0915 to 1015
 
-*Where:*
-IMAS flex room
+*Where*: the ground floor Flex Room at [IMAS / ACE CRC Salamanca (‘the Waterfront’)](https://www.google.com.au/maps/place/Antarctic+Climate+%26+Ecosystems+CRC/@-42.8864995,147.3332809,17.25z/data=!4m2!3m1!1s0x0000000000000000:0x6643069d32752fb7). 
 
 
 **COMING UP**
@@ -39,6 +37,8 @@ IMAS flex room
 8 April we have Natalie Kelly on speeding up R for lazy people. 
 
 ... a talk on form-mastery 
+
+... a session on Git 
 
 ... lots of data sciencey stuff
 
