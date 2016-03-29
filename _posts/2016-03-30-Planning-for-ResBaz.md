@@ -12,7 +12,7 @@ Hi DaSHers,
 
 **LAST TIME**
 
-*Last 18 March, Dan gave a great talk on the IMOS backend and the choice to go with object storage. This really got the discussions going and provided great food for thought for anyone working with complicated file systems. *
+*Last 18 March, Dan gave a great talk on the IMOS backend and the choice to go with object storage. This really got the discussions going and provided great food for thought for anyone working with complicated file systems.*
 
 
 **THIS WEEK**
