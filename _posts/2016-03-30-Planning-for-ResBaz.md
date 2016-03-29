@@ -38,6 +38,6 @@ At this week's DaSH session, we're going to explore the possibility of running a
 
 ... lots of data sciencey stuff
 
-If you have a topic you'd like to present get in touch on @DataScienceHbt Twitter or join the mailing list. 
+If you have a topic you'd like to present get in touch on \@DataScienceHbt Twitter or join the mailing list. 
 
 Data Science Hobart
