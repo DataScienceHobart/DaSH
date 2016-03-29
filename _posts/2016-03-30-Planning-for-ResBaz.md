@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planning for ResBaz 2017"
-author: "Michael Sumner"
+author: "DaSH"
 date: "2016-03-30"
 published: true
 status: publish
