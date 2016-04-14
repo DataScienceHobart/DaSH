@@ -39,19 +39,19 @@ Upcoming
  - drawing and pixel editing tools
  - projections
 
-GDAL - GIS workhorse toolkit
+* GDAL - GIS workhorse toolkit
  - gdalinfo, ogrinfo
  - gdal_translate, ogr2ogr
  - relation to QGIS
  - vector data formats
  - raster data formats
 
-GIS with QGIS
+* QGIS and open tools
 
  - web services
+ - ?
 
-
-GIS in the 21C
+* GIS in the 21C
  - leaflet
  - mapserver
  - meshes
