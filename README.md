@@ -4,6 +4,8 @@
 
 Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
 
+<!--> writeLines(sprintf("%s |  -  |    |    | ", seq(as.Date("2016-04-15"), length = 10, by = "1 week"))) <-->
+
 Date       | Topic | Contact | Venue |
 -----------|-------|---------|-------|
 2016-02-05 | open  | MS      | Flex  |  
@@ -15,7 +17,18 @@ Date       | Topic | Contact | Venue |
 2016-03-18 |  DF   | MS      | Flex  |
 2016-03-25 |  Good Friday |  |  |
 2016-04-01 |  Rsbz | MS      | Flex  |
-2016-04-08 | NK    | MS      | Flex |
+2016-05-08 | open  | MS      | Flex  |
+2016-04-15 | NK    | MS      | Flex |
+2016-04-22 |  -  |    |    | 
+2016-04-29 |  -  |    |    | 
+2016-05-06 |  -  |    |    | 
+2016-05-13 |  -  |    |    | 
+2016-05-20 |  -  |    |    | 
+2016-05-27 |  -  |    |    | 
+2016-06-03 |  -  |    |    | 
+2016-06-10 |  -  |    |    | 
+2016-06-17 |  -  |    |    | 
+
 Upcoming
 
 * ResbazTas2017 
