@@ -19,11 +19,11 @@ Date       | Topic | Contact | Venue |
 2016-04-01 |  Rsbz | MS      | Flex  |
 2016-05-08 | open  | MS      | Flex  |
 2016-04-15 | NK    | MS      | Flex |
+2016-04-22 | GIS intro  | MS   | Flex    | 
 2016-04-22 |  -  |    |    | 
-2016-04-29 |  -  |    |    | 
-2016-05-06 |  -  |    |    | 
-2016-05-13 |  -  |    |    | 
-2016-05-20 |  -  |    |    | 
+2016-05-06 |  GDAL |    |    | 
+2016-05-13 |   |    |    | 
+2016-05-20 |  WFS/WMS  |    |    | 
 2016-05-27 |  -  |    |    | 
 2016-06-03 |  -  |    |    | 
 2016-06-10 |  -  |    |    | 
@@ -31,9 +31,34 @@ Date       | Topic | Contact | Venue |
 
 Upcoming
 
-* ResbazTas2017 
-* 
+* GIS intro - what is it, with  Manifold and QGIS
+ - layers
+ - drawings, objects/attributes
+ - rasters and images
+ - thematic formatting
+ - drawing and pixel editing tools
+ - projections
 
+GDAL - GIS workhorse toolkit
+ - gdalinfo, ogrinfo
+ - gdal_translate, ogr2ogr
+ - relation to QGIS
+ - vector data formats
+ - raster data formats
+
+GIS with QGIS
+
+ - web services
+
+
+GIS in the 21C
+ - leaflet
+ - mapserver
+ - meshes
+ - WebGL
+ - texture mapping
+ - ?
+ - 
 ## How to post
 
 1. Clone this repo. 
