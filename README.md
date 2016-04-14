@@ -4,7 +4,7 @@
 
 Please feel free to update this calendar, but also notify the organizers. Please don't put specifics here, just a minor note and initial will do. 
 
-<!--> writeLines(sprintf("%s |  -  |    |    | ", seq(as.Date("2016-04-15"), length = 10, by = "1 week"))) <-->
+<!-- writeLines(sprintf("%s |  -  |    |    | ", seq(as.Date("2016-04-15"), length = 10, by = "1 week"))) -->
 
 Date       | Topic | Contact | Venue |
 -----------|-------|---------|-------|
