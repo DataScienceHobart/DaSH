@@ -19,8 +19,8 @@ Date       | Topic | Contact | Venue |
 2016-04-01 |  Rsbz | MS      | Flex  |
 2016-05-08 | open  | MS      | Flex  |
 2016-04-15 | NK    | MS      | Flex |
-2016-04-22 | GIS intro  | MS   | Flex    | 
-2016-04-22 |  -  |    |    | 
+2016-04-22 | -  |    |    | 
+2016-04-22 |  GIS intro  | MS   | Flex    | 
 2016-05-06 |  GDAL |    |    | 
 2016-05-13 |   |    |    | 
 2016-05-20 |  WFS/WMS  |    |    | 
