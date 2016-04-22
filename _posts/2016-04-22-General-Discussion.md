@@ -45,6 +45,50 @@ Tritanopia
 **Good Practice Programming**
 A number of issues were discussed around good practice programming including: script design; including tests; memory management; efficiency testing and overall profiling of code performance, debugging. Mike and Damien provided links to various resources throughout the discussion to help support the discussion.  These are:
 
+Colour issues 
+   End the rainbow: http://www.climate-lab-book.ac.uk/2014/end-of-the-rainbow/
+   https://www.stat.auckland.ac.nz/~ihaka/downloads/DSC-Color.pdf
+
+R weirdness - https://ironholds.org/projects/rbitrary/
+
+Speed issues - The R Inferno http://www.burns-stat.com/documents/books/the-r-inferno/
+
+Testing - Software Carpentry lesson on testing  http://katyhuff.github.io/python-testing/
+        - testthat https://cran.r-project.org/web/packages/testthat/index.html
+
+Building a package with devtools
+   - adding functions
+   - documenting with roxygen2
+   - use_test()
+   - Ctrl-SHIFT-B / T / E
+   - use_readme_rmd()
+
+Errors and debugging
+ - debugger in RStudio https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio
+ - http://software-carpentry.org/blog/2011/03/using-a-debugger.html
+
+Functions in R
+ - http://adv-r.had.co.nz/Functions.html
+
+R's copy semantics and memory
+  - http://adv-r.had.co.nz/memory.html
+
+Profiling R code: https://github.com/rstudio/profvis
+ 
+
+Next week (29 Apri)
+
+Intro to GIS concepts ( with Manifold and QGIS)
+
+Coming up
+
+Software package management 
+
+Speeding up R
+
+Form mastery
+
+
   
 *When:*
 Friday 22 April 2016, 0915hrs - 1015hrs
