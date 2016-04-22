@@ -57,22 +57,22 @@ A number of issues were discussed around good practice programming including: sc
 
 *Colour issues* 
 
-   End the rainbow: http://www.climate-lab-book.ac.uk/2014/end-of-the-rainbow/
-   https://www.stat.auckland.ac.nz/~ihaka/downloads/DSC-Color.pdf
+  - End the rainbow: http://www.climate-lab-book.ac.uk/2014/end-of-the-rainbow/
+  - https://www.stat.auckland.ac.nz/~ihaka/downloads/DSC-Color.pdf
 
 *R weirdness*
 
-https://ironholds.org/projects/rbitrary/
+  - https://ironholds.org/projects/rbitrary/
 
 *Speed issues*
 
-The R Inferno http://www.burns-stat.com/documents/books/the-r-inferno/
+  - The R Inferno http://www.burns-stat.com/documents/books/the-r-inferno/
 
 *Testing*
 
-Software Carpentry lesson on testing  http://katyhuff.github.io/python-testing/
+  - Software Carpentry lesson on testing  http://katyhuff.github.io/python-testing/
 
-testthat https://cran.r-project.org/web/packages/testthat/index.html
+  - testthat https://cran.r-project.org/web/packages/testthat/index.html
 
 *Building a package with devtools*
 
@@ -97,7 +97,7 @@ testthat https://cran.r-project.org/web/packages/testthat/index.html
 
 *Profiling R code:*
 
-https://github.com/rstudio/profvis 
+  - https://github.com/rstudio/profvis 
 
 **Next week (29 Apri)**
 
@@ -105,11 +105,9 @@ Intro to GIS concepts ( with Manifold and QGIS)
 
 *Coming up*
 
-Software package management 
-
-Speeding up R
-
-Form mastery
+- Software package management 
+- Speeding up R
+- Form mastery
 
 
   
