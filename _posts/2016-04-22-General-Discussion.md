@@ -14,7 +14,7 @@ Today we had a wide ranging discussion which meandered around two main themes:  
 
 **Colour blind friendly figure**
 
-Over the last few weeks, Tom has been investigating how to simplify making figures colourblind friendly. He brought a few simple solutions.  Although it is very easy to chose and set colour blind friendly colours/paletts, knowng how and where to find them is tricky depending on the platform/program you are in.  So here is a rainbow range:
+Over the last few weeks, Tom has been investigating how to simplify making figures colourblind friendly. He brought a few simple solutions.  Although it is very easy to chose and set colour blind friendly colours/palettes, knowing how and where to find them is tricky depending on the platform/program you are in.  So here is a rainbow range:
 
 hexcode|normalname|designername
 ---|---|---
@@ -31,19 +31,23 @@ hexcode|normalname|designername
 One of the biggest challenges was finding a way to check how an entire image looked with a particular kind of colour blindness.  The app 'Color Oracle' (http://colororacle.org/) provided a free, simple, easy, rapid, cross platform solution. It just changes the screen colour palette temporaily, allowing a quick check.  
 Here are three different checks of the original image.  
 
-Normal vision
+*Normal vision*
+
 
 ![imageref](/figures/colourblindfriendly/TSNDRA_normal_vision_colours.png)
 
-Deuteranopia
+*Deuteranopia*
+
 
 ![imageref](/figures/colourblindfriendly/TSNDRA_colorblind_test_1.png)
 
-Protanopia
+*Protanopia*
+
 
 ![imageref](/figures/colourblindfriendly/TSNDRA_colorblind_test_2.png)
 
-Tritanopia
+*Tritanopia*
+
 
 ![imageref](/figures/colourblindfriendly/TSNDRA_colorblind_test_3.png)
 
