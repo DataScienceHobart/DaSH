@@ -12,7 +12,7 @@ Hi DaSHers,
 
 Today we had a wide ranging discussion which meandered around two main themes:  colour blind friendly figures; and good practice programming.
 
-**Colour blind friendly figure**
+**Colour blind friendly figures**
 
 Over the last few weeks, Tom has been investigating how to simplify making figures colourblind friendly. He brought a few simple solutions.  Although it is very easy to chose and set colour blind friendly colours/palettes, knowing how and where to find them is tricky depending on the platform/program you are in.  So here is a rainbow range:
 
@@ -101,7 +101,7 @@ A number of issues were discussed around good practice programming including: sc
 
 **Next week (29 Apri)**
 
-Intro to GIS concepts ( with Manifold and QGIS)
+Intro to GIS concepts (with Manifold and QGIS)
 
 *Coming up*
 
