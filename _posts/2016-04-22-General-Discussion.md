@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DaSH - Colour blind friendly, memory management, profiling"
+title: "DaSH - Colourblind friendly; good practices"
 author: "Tom Remenyi"
 date: "2016-04-22"
 published: true
