@@ -28,8 +28,7 @@ hexcode|normalname|designername
 #D55E00|colourblindred|tenn
 #CC79A7|colourblindpink|hopbush
 
-One of the biggest challenges was finding a way to check how an entire image looked with a particular kind of colour blindness.  The app 'Color Oracle' (http://colororacle.org/) provided a free, simple, easy, rapid, cross platform solution. It just changes the screen colour palette temporaily, allowing a quick check.  
-Here are three different checks of the original image.  
+One of the biggest challenges was finding a way to check how an entire image looked with a particular kind of colour blindness.  The app 'Color Oracle' (http://colororacle.org/) provided a free, simple, easy, rapid, cross platform solution. It just changes the screen colour palette temporaily, allowing a quick check (if your using R, Paul Murrel from R-core recommends the ['dichromat' package](http://cran.stat.auckland.ac.nz/web/packages/dichromat/index.html) ).  Here are three different checks of the original image. 
 
 *Normal vision*
 
