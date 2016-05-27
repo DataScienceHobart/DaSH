@@ -15,17 +15,19 @@ A web service is a system that accepts requests and returns results over the Web
 
 ## The AODN Portal
 
-As an example, web services make it possible to find, preview and download data using the [AODN Portal](https://imos.aodn.org.au). Behind the scences, the portal combines three services that it talks to via the web:
+As an example, web services make it possible to find, preview and download data using the [AODN Portal](https://portal.aodn.org.au/). Behind the scences, the portal combines three services that it talks to via the web:
 * A [GeoNetwork](http://geonetwork-opensource.org/) metadata catalogue, to find data collections;
-* A Web Map Service (WMS) to generate map tiles
-* A Web Feature Service (WFS) to provide data downloads.
+* A Web Map Service (WMS) to generate map tiles (served by [GeoServer](http://geoserver.org/))
+* A Web Feature Service (WFS) to provide data downloads (served by GeoServer).
 
-These services can also be accessed directly.
+These services can also be accessed directly, at
+* https://catalogue-portal.aodn.org.au for the metadata; and
+* http://geoserver-123.aodn.org.au/ for WMS/WFS
 
 
 ## Web Feature Service (WFS)
 
-* A standard of the [Open Geospatial Consortium](http://www.opengeospatial.org/)
+* A [standard](http://www.opengeospatial.org/standards/wfs) of the [Open Geospatial Consortium](http://www.opengeospatial.org/) (OGC)
 * Allows geographic features (spatial extent + data) to be accessed via the Web.
 * Allows filtering based on spatial extent and attributes.
 * Served by GIS software (e.g. [GeoServer](http://geoserver.org/), [QGIS](http://www.qgis.org), etc...) based on data in a database or files.
@@ -69,10 +71,16 @@ The [response](http://geoserver-123.aodn.org.au/geoserver/imos/ows?service=WFS&v
 Returns [data](http://geoserver-123.aodn.org.au/geoserver/imos/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=imos:anmn_ctd_profiles_data&cql_filter=time_coverage_end%20AFTER%202016-01-01T00:00:00&outputFormat=csv) in requested format. 
 
 
+## Examples of WFS access from Python
+
+* [Using a full http request string](./python_web_service_example.ipynb) (e.g. as obtained using the Python download option on the AODN Portal)
+* [Using the OGC Web Services (OWS) library to create requests](./python_web_service_example2.ipynb)
+
 ## Other web services
 
 ### Web Map Service (WMS)
 
+* Also an OGC [standard](http://www.opengeospatial.org/standards/wms)
 * Serves image tiles for interactive map applications like Google Maps.
 * Based on the same sort of data "store" as WFS.
 * Uses the spatial information and pre-defined styles to create the map.
