@@ -19,9 +19,9 @@ Hi DaSHers,
 
 This week we have a session to discuss the **Research Bazaar (ResBaz)**: 
 
-The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. At the February 2016 event (https://feb2016.resbaz.com/), ten sites around the world offered classes in topics including data wrangling (with Python and R ), text analysis (with Python's Natural Language Toolkit), web visualisation (with CartoDB, TileMill and D3.js) and computer aided design (with 3D Slicer and TinkerCAD). In contrast to a typical death-by-powerpoint experience, these classes involved intensive hands-on tutorials and practical exercises that were (mostly) delivered by volunteer research scientists, as opposed to IT professionals. To facilitate knowledge sharing among participants, each site also offered an extensive networking/social program.  
+The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. At the [February 2016 event](https://feb2016.resbaz.com/), ten sites around the world offered classes in topics including data wrangling (with Python and R ), text analysis (with Python's Natural Language Toolkit), web visualisation (with CartoDB, TileMill and D3.js) and computer aided design (with 3D Slicer and TinkerCAD). In contrast to a typical death-by-powerpoint experience, these classes involved intensive hands-on tutorials and practical exercises that were (mostly) delivered by volunteer research scientists, as opposed to IT professionals. To facilitate knowledge sharing among participants, each site also offered an extensive networking/social program.  
 
-At this week's DaSH session, we're going to explore the possibility of running a ResBaz event in a Hobart. In particular, we want to start sketching an outline of the volunteer instructors, topics for classes, target audience, venue, social program, etc, etc, so please come along with your enthusiasm and ideas! 
+At this week's DaSH session, we're going to explore the possibility of running a ResBaz event in Hobart. In particular, we want to start sketching an outline of the volunteer instructors, topics for classes, target audience, venue, social program, etc, etc, so please come along with your enthusiasm and ideas! 
 
 *When*:  April 1, from 0915 to 1015
 
