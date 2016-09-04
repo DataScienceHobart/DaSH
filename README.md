@@ -22,42 +22,14 @@ Date       | Topic | Contact | Venue |
 2016-04-22 | free-form, programming  | MS    | Flex    | 
 2016-04-22 |  GIS intro  | MS   | Flex    | 
 2016-05-06 |  GDAL |    |    | 
-2016-05-13 |   |    |    | 
-2016-05-20 |  WFS/WMS  |    |    | 
-2016-05-27 |  -  |    |    | 
-2016-06-03 |  -  |    |    | 
-2016-06-10 |  -  |    |    | 
-2016-06-17 |  -  |    |    | 
+2016-05-27 |    |    |    | 
+2016-05-27 |  WFS/WMS  |    |    | 
+2016-09-09 | SOM | MS | Flex |
+2016-09-16 | Creating R packages | MS | Flex |
 
 Upcoming
 
-* GIS intro - what is it, with  Manifold and QGIS
- - layers
- - drawings, objects/attributes
- - rasters and images
- - thematic formatting
- - drawing and pixel editing tools
- - projections
 
-* GDAL - GIS workhorse toolkit
- - gdalinfo, ogrinfo
- - gdal_translate, ogr2ogr
- - relation to QGIS
- - vector data formats
- - raster data formats
-
-* QGIS and open tools
-
- - web services
- - ?
-
-* GIS in the 21C
- - leaflet
- - mapserver
- - meshes
- - WebGL
- - texture mapping
- - ?
  
 
 ## How to post
