@@ -8,10 +8,11 @@ Please feel free to update this calendar, but also notify the organizers. Please
 
 Upcoming
 
-RJ on 
 
 Date       | Topic | Contact | Venue | Link |
 -----------|-------|---------|-------|------|
+2017-04-21 | -  | --   |   - |   -    |
+2017-04-14 | -  | --   |   - |   -    |
 2017-04-07 |  HRUG   | MS      | Flex  |  |
 2017-03-31 | -  | --   |   - |   -    |
 2017-03-24 | -  | --   |   - |   -    |
