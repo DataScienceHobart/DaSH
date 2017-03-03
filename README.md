@@ -6,6 +6,22 @@ Please feel free to update this calendar, but also notify the organizers. Please
 
 <!-- writeLines(sprintf("%s |  -  |    |    | ", seq(as.Date("2016-04-15"), length = 10, by = "1 week"))) -->
 
+Upcoming
+
+RJ on 
+
+Date       | Topic | Contact | Venue | Link |
+-----------|-------|---------|-------|------|
+2017-04-07 |  HRUG   | MS      | Flex  |  |
+2017-03-10 |       | MS   | foyer  |  |
+2017-03-03 |  MS   | MS      | theatre, foyer  | [2017-02-03-graphics-imas](https://github.com/DataScienceHobart/2017-02-03-graphics-imas/blob/master/README.md) |
+
+
+YYYY-mm-dd | -  | --   |   - |   -    |
+
+
+
+
 Date       | Topic | Contact | Venue |
 -----------|-------|---------|-------|
 2016-02-05 | open  | MS      | Flex  |  
@@ -27,7 +43,6 @@ Date       | Topic | Contact | Venue |
 2016-09-09 | SOM | MS | Flex |
 2016-09-16 | Creating R packages | MS | Flex |
 
-Upcoming
 
 
  
