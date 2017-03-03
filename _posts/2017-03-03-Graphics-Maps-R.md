@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "DaSH - Colourblind friendly; good practices"
-author: "Tom Remenyi"
-date: "2016-04-22"
+title: "Graphics and Maps in R"
+author: "Michael Sumner"
+date: "2017-03-03"
 published: true
 status: publish
 draft: false
