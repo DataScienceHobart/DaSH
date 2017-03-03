@@ -29,24 +29,25 @@ Past
 Date       | Topic | Contact | Venue | Link |
 -----------|-------|---------|-------|-------|
 2017-03-03 |  MS   | MS      | theatre, foyer  | [2017-02-03-graphics-imas](https://github.com/DataScienceHobart/2017-02-03-graphics-imas/blob/master/README.md) |
-2016-02-05 | open  | MS      | Flex  |  |
-2016-02-12 | BCCVL | JB      | CMAR  |  |
-2016-02-19 | open  | MS      |       |  |
-2016-02-26 |  DI   | MS      | Flex  |  |
-2016-03-04 |  NH   | MS      | Flex  |  |
-2016-03-11 |  PB   | MS      | Flex  |  |
-2016-03-18 |  DF   | MS      | Flex  |  |
-2016-03-25 |  Good Friday |  |  |  |
-2016-04-01 |  Rsbz | MS      | Flex  |  |
-2016-05-08 | open  | MS      | Flex  |  |
-2016-04-15 | NK    | MS      | Flex |  |
-2016-04-22 | free-form, programming  | MS    | Flex    |   |
-2016-04-22 |  GIS intro  | MS   | Flex    |   |
-2016-05-06 |  GDAL |    |    |   |
-2016-05-27 |    |    |    |   |
-2016-05-27 |  WFS/WMS  |    |    |   |
-2016-09-09 | SOM | MS | Flex |  |
 2016-09-16 | Creating R packages | MS | Flex |  |
+2016-09-09 | SOM | MS | Flex |  |
+2016-05-27 |  WFS/WMS  |    |    |   |
+2016-05-27 |    |    |    |   |
+2016-05-06 |  GDAL |    |    |   |
+2016-04-22 |  GIS intro  | MS   | Flex    |   |
+2016-04-22 | free-form, programming  | MS    | Flex    |   |
+2016-04-15 | NK    | MS      | Flex |  |
+2016-05-08 | open  | MS      | Flex  |  |
+2016-04-01 |  Rsbz | MS      | Flex  |  |
+2016-03-25 |  Good Friday |  |  |  |
+2016-03-18 |  DF   | MS      | Flex  |  |
+2016-03-11 |  PB   | MS      | Flex  |  |
+2016-03-04 |  NH   | MS      | Flex  |  |
+2016-02-26 |  DI   | MS      | Flex  |  |
+2016-02-19 | open  | MS      |       |  |
+2016-02-12 | BCCVL | JB      | CMAR  |  |
+2016-02-05 | open  | MS      | Flex  |  |
+
 
 
 
