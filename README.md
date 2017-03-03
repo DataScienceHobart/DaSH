@@ -13,7 +13,10 @@ RJ on
 Date       | Topic | Contact | Venue | Link |
 -----------|-------|---------|-------|------|
 2017-04-07 |  HRUG   | MS      | Flex  |  |
-2017-03-10 |       | MS   | foyer  |  |
+2017-03-31 | -  | --   |   - |   -    |
+2017-03-24 | -  | --   |   - |   -    |
+2017-03-17 | -  | --   |   - |   -    |
+2017-03-10 |   R and Github    | MS   | foyer  |  |
 2017-03-03 |  MS   | MS      | theatre, foyer  | [2017-02-03-graphics-imas](https://github.com/DataScienceHobart/2017-02-03-graphics-imas/blob/master/README.md) |
 
 
